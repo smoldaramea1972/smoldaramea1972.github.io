@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://smoldaramea1972.github.io/sitemap.xml
